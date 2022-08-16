@@ -28,4 +28,4 @@
 | [东营中医药网](https://www.dyzyxh.cn) | [万义中医学校官网](https://www.dyzyxh.cn/wyzyschool) |
 | :----: | :----: |
 | ![东营中医药网](./images/table/dyzyyw/dyzyyw-home.png) | ![万义中医学校官网](./images/table/wyzyschool/wyzyschool-home.png) |
-| 一款中医常见病辅助诊断小程序 | 东营市中医协会官方网站 | 万义中医学校官方网站 |
+| 东营市中医协会官方网站 | 万义中医学校官方网站 |
