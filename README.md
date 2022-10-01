@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h1>万义中医研发团队介绍</h1>
+  <h1>万义中医产品介绍</h1>
 </div>
 
 <div align="center">
